@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div>
-      <h1>About Page - {process.env.CLIENT_NAME}{process.env.NODE_VERSION}</h1>
+      <h1>About Page - {process.env.CLIENT_NAME}{process.env}</h1>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
         Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
